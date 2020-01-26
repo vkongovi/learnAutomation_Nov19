@@ -25,8 +25,12 @@ public class student {
     }
 
     private void calculateGPA(){
-        System.out.println("This is a private method to calculate the GPA");
+        System.out.println("This is a private Method to calculate the GPA");
     }
-    protected void calculate_proGPA(){}
-    public void calculate_pubGPA(){}
+    protected void calculate_proGPA(){
+        System.out.println("This is a protected Method  to calculate  the GPA");
+    }
+    public void calculate_pubGPA(){
+        System.out.println("This is a public  Method  to calculate  the GPA");
+    }
 }
