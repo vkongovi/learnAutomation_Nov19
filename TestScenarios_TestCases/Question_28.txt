@@ -1,0 +1,12 @@
+Question 28:
+Write test scenarios to test Pencil
+
+1.Apperance of the Pencil 
+2.Functionality of writing capability of the pencil
+	-how well/legible/smooth it writes 
+	-how often should it be sharpened
+	-how many pages can it write between sharpenings
+3.Performance -Does the lead of the pencil break often?
+		When does the lead of the pencil break
+4.Extra - Does it have an eraser feature?
+	  Does the lead retract?

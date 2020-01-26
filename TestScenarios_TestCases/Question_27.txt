@@ -1,0 +1,22 @@
+Q27. Write test cases for how to test just the withdrawing functionality from ATM ( Minimum 20 test cases required ) 
+
+Step1:Insert Invalid Card - card should be returned with proper message displayed
+Step2:Insert Valid Card 
+Step3:Should prompt for Authentication
+Step4:Enter invalid pin 
+Step5:Message should be displayed
+Step6:Enter invalid pin again
+Step7:Message displayed with warning for just one more attempt only
+Step8:Enter invalid pin again
+Step9:Card not returned/card invalidated with message to go to bank branch
+Step10:(Assume from step3 ) Enter valid pin
+Step11:User Authenticated - menu displayed
+Step12:User should be able to choose withdraw option
+Step13:Withdrawal menu/screen displayed for user to enter amounts
+Step14:Enter bigger amount than avaiable 
+Step15:Insufficient funds message should be displayed.
+Step16:Enter valid amount (but minimum balance not maintained)
+Step17:Display mesage for balance going lower than minimum - with option to reenter amount for withdrawal
+Step18:Enter correct amount for withdrawal
+Step19:Money disbursed showing updated balance on screen
+Step20:card returned

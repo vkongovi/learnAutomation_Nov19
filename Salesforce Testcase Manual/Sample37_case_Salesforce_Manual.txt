@@ -1,0 +1,20 @@
+Login To SalesForce -2:Step Fail
+Select company owner	Select Company owner from free trial window	Manage account contact window should be displayed
+Close the information box	Click on x mark on the box	information box is closed
+
+
+TC05:
+New User Menu:Switch to Lightnining Experiance displayed in addition to the existing ones
+
+
+TC06
+Photo upload fails 
+
+
+
+TC15 : Opportunity Pipeline  - view displayed in Opportunities View dropdown
+
+TC16: Primary Campaign source field not displayed - when creating new Opportunity
+TC32: Acount Name Gloabl Media  - doesnt exisit - so cannot crate a new contact for that account name
+TC36:The 'Calendar for FirstName LastName' page should be displayed. (Day View ) displayed
+
